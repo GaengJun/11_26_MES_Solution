@@ -1,0 +1,600 @@
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MES.Solution.exe.config
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MES.Solution.exe
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MES.Solution.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Dapper.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Google.Protobuf.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\LiveCharts.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\LiveCharts.Wpf.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.Core.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.Material.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MySql.Data.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Serilog.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Buffers.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Memory.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Numerics.Vectors.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Dapper.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Google.Protobuf.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Google.Protobuf.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\LiveCharts.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\LiveCharts.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\LiveCharts.Wpf.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.Core.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.Material.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\MySql.Data.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\Serilog.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Buffers.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Memory.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Numerics.Vectors.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.csproj.AssemblyReference.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.csproj.ResolveComReference.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Contract\ContractAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Dashboard\DashboardPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\LoginWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\NotificationWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Equipment\PlcDetailWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Contract\ContractAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Contract\ContractPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Dashboard\DashboardPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\MainWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\LoginWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Equipment\EquipmentPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Inventory\InventoryPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\LogPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\NotificationWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\ProductionPlanPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\ProductionStatusPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\WorkOrderPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Shipment\ShipmentPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Equipment\PlcDetailWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\RegisterWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\App.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution_MarkupCompile.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution_MarkupCompile.lref
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\App.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Contract\ContractPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\MainWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Equipment\EquipmentPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Inventory\InventoryPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\LogPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\ProductionPlanPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\ProductionStatusPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Production\WorkOrderPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\Pages\Shipment\ShipmentPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\Views\RegisterWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.g.resources
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.Properties.Resources.resources
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.csproj.GenerateResource.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.csproj.CoreCompileInputs.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solu.DFDCDE34.Up2Date
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.exe
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_22\SF.Solution-11_21 통합용\SF.Solution-11_21 통합용\SF.Solution11_23_0930\11_25_진짜최종수정안함\obj\Release\MES.Solution.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MES.Solution.exe.config
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MES.Solution.exe
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MES.Solution.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Dapper.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Google.Protobuf.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\LiveCharts.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\LiveCharts.Wpf.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.Core.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.Material.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MySql.Data.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Serilog.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Buffers.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Memory.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Numerics.Vectors.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Dapper.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Google.Protobuf.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Google.Protobuf.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\LiveCharts.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\LiveCharts.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\LiveCharts.Wpf.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.Core.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.Material.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\MySql.Data.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\Serilog.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Buffers.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Memory.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Numerics.Vectors.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.csproj.AssemblyReference.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.csproj.ResolveComReference.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Contract\ContractAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Dashboard\DashboardPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\LoginWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\NotificationWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Equipment\PlcDetailWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Contract\ContractAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Contract\ContractPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Dashboard\DashboardPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\MainWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\LoginWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Equipment\EquipmentPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Inventory\InventoryPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\LogPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\NotificationWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\ProductionPlanPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\ProductionStatusPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\WorkOrderPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Shipment\ShipmentPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Equipment\PlcDetailWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\RegisterWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\App.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution_MarkupCompile.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution_MarkupCompile.lref
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\App.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Contract\ContractPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\MainWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Equipment\EquipmentPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Inventory\InventoryPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\LogPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\ProductionPlanPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\ProductionStatusPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Production\WorkOrderPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\Pages\Shipment\ShipmentPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\Views\RegisterWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.g.resources
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.Properties.Resources.resources
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.csproj.GenerateResource.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.csproj.CoreCompileInputs.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solu.DFDCDE34.Up2Date
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.exe
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_25_진짜최종수정안함(버그수정)\obj\Release\MES.Solution.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MES.Solution.exe.config
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MES.Solution.exe
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MES.Solution.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Dapper.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Google.Protobuf.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\LiveCharts.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\LiveCharts.Wpf.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.Core.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.Material.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MySql.Data.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Serilog.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Buffers.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Memory.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Numerics.Vectors.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Dapper.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Google.Protobuf.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Google.Protobuf.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\LiveCharts.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\LiveCharts.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\LiveCharts.Wpf.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.Core.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.Material.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\MySql.Data.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\Serilog.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Buffers.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Memory.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Numerics.Vectors.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.csproj.AssemblyReference.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.csproj.ResolveComReference.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Contract\ContractAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Dashboard\DashboardPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\LoginWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\NotificationWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Equipment\PlcDetailWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Contract\ContractAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Contract\ContractPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Dashboard\DashboardPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\MainWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\LoginWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Equipment\EquipmentPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Inventory\InventoryPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\LogPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\NotificationWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\ProductionPlanPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\ProductionStatusPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\WorkOrderPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Shipment\ShipmentPage.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Equipment\PlcDetailWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\RegisterWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\App.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution_MarkupCompile.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution_MarkupCompile.lref
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\App.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Contract\ContractPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\MainWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Equipment\EquipmentPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Inventory\InventoryPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\LogPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\ProductionPlanPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\ProductionStatusPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Production\WorkOrderPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\Pages\Shipment\ShipmentPage.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\Views\RegisterWindow.baml
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.g.resources
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.Properties.Resources.resources
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.csproj.GenerateResource.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.csproj.CoreCompileInputs.cache
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solu.DFDCDE34.Up2Date
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.exe
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Release\MES.Solution.pdb
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MES.Solution.exe.config
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MES.Solution.exe
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MES.Solution.pdb
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Dapper.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Google.Protobuf.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\LiveCharts.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\LiveCharts.Wpf.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.Core.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.Material.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MySql.Data.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Serilog.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Buffers.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Memory.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Numerics.Vectors.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Dapper.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Google.Protobuf.pdb
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Google.Protobuf.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\LiveCharts.pdb
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\LiveCharts.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\LiveCharts.Wpf.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.Core.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.Material.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\MySql.Data.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\Serilog.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Buffers.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Memory.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Numerics.Vectors.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.csproj.AssemblyReference.cache
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.csproj.ResolveComReference.cache
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Contract\ContractAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Dashboard\DashboardPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\LoginWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\NotificationWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Equipment\PlcDetailWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Contract\ContractAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Contract\ContractPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Dashboard\DashboardPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\MainWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\LoginWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Equipment\EquipmentPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Inventory\InventoryPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\LogPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\NotificationWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\ProductionPlanPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\ProductionStatusPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\WorkOrderPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Shipment\ShipmentPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Equipment\PlcDetailWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\RegisterWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\App.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution_MarkupCompile.cache
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution_MarkupCompile.lref
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\App.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Contract\ContractPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\MainWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Equipment\EquipmentPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Inventory\InventoryPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\LogPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\ProductionPlanPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\ProductionStatusPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Production\WorkOrderPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\Pages\Shipment\ShipmentPage.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\Views\RegisterWindow.baml
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.g.resources
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.Properties.Resources.resources
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.csproj.GenerateResource.cache
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.csproj.CoreCompileInputs.cache
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solu.DFDCDE34.Up2Date
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.exe
+C:\Users\YoungJun\Desktop\11_26_살짝수정배포가능\obj\Release\MES.Solution.pdb
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MES.Solution.exe.config
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MES.Solution.exe
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MES.Solution.pdb
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Dapper.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Google.Protobuf.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\LiveCharts.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\LiveCharts.Wpf.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.Core.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.Material.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MySql.Data.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Serilog.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Buffers.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Memory.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Numerics.Vectors.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Dapper.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Google.Protobuf.pdb
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Google.Protobuf.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\LiveCharts.pdb
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\LiveCharts.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\LiveCharts.Wpf.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.Core.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.Material.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\MySql.Data.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\Serilog.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Buffers.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Memory.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Numerics.Vectors.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.csproj.AssemblyReference.cache
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Interop.ActUtlTypeLib.dll
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.csproj.ResolveComReference.cache
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Contract\ContractAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Dashboard\DashboardPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\LoginWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\NotificationWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Equipment\PlcDetailWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Contract\ContractAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Inventory\InventoryManagementWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Contract\ContractProductionPlanInputWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Contract\ContractPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Dashboard\DashboardPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\MainWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\LoginWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Equipment\EquipmentPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Inventory\InventoryPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\LogPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\NotificationWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\ProductionPlanPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\ProductionStatusPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\WorkOrderPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Shipment\ShipmentPage.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Equipment\PlcDetailWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\ProductionPlanAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\RegisterWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Shipment\ShipmentAddWindow.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\App.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution_MarkupCompile.cache
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution_MarkupCompile.lref
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\App.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Contract\ContractPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\MainWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Equipment\EquipmentPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Inventory\InventoryPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\LogPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\ProductionPlanPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\ProductionStatusPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Production\WorkOrderPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\Pages\Shipment\ShipmentPage.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\Views\RegisterWindow.baml
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.g.resources
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.Properties.Resources.resources
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.csproj.GenerateResource.cache
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.csproj.CoreCompileInputs.cache
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solu.DFDCDE34.Up2Date
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.exe
+C:\Users\YoungJun\Desktop\11_26_진짜 찐찐막 최종\obj\Release\MES.Solution.pdb

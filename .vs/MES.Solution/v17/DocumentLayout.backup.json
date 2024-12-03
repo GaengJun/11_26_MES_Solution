@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|c:\\users\\youngjun\\desktop\\\uC218\uC5C5\\mes \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\models\\contract\\contractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:models\\contract\\contractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\services\\inventorychartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:services\\inventorychartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\viewmodels\\product\\workorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:viewmodels\\product\\workorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\viewmodels\\shipment\\shipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:viewmodels\\shipment\\shipmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\services\\productionsimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:services\\productionsimulationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\models\\shipment\\shipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:models\\shipment\\shipmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\viewmodels\\contract\\contractproductionplaninputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A365CD-8057-4F42-BC67-3DB82BB05860}|MES.Solution.csproj|solutionrelative:viewmodels\\contract\\contractproductionplaninputviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractModel.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Models\\Contract\\ContractModel.cs",
+              "RelativeDocumentMoniker": "Models\\Contract\\ContractModel.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Models\\Contract\\ContractModel.cs",
+              "RelativeToolTip": "Models\\Contract\\ContractModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:00:34.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryChartService.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Services\\InventoryChartService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryChartService.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Services\\InventoryChartService.cs",
+              "RelativeToolTip": "Services\\InventoryChartService.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAmwF0BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:47:49.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionSimulationService.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Services\\ProductionSimulationService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductionSimulationService.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Services\\ProductionSimulationService.cs",
+              "RelativeToolTip": "Services\\ProductionSimulationService.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAmwPUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:12:25.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\ViewModels\\Shipment\\ShipmentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Shipment\\ShipmentViewModel.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\ViewModels\\Shipment\\ShipmentViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Shipment\\ShipmentViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwMYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:34:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShipmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Models\\Shipment\\ShipmentModel.cs",
+              "RelativeDocumentMoniker": "Models\\Shipment\\ShipmentModel.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\Models\\Shipment\\ShipmentModel.cs",
+              "RelativeToolTip": "Models\\Shipment\\ShipmentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:34:14.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\ViewModels\\Product\\WorkOrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Product\\WorkOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\ViewModels\\Product\\WorkOrderViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Product\\WorkOrderViewModel.cs",
+              "ViewState": "AgIAAK4EAAAAAAAAAAAWwMEEAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:32:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractProductionPlanInputViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\ViewModels\\Contract\\ContractProductionPlanInputViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Contract\\ContractProductionPlanInputViewModel.cs",
+              "ToolTip": "C:\\Users\\YoungJun\\Desktop\\\uC218\uC5C5\\MES \uAD6C\uCD95 \uC218\uC5C5\\11_26_\uC9C4\uC9DC \uCC10\uCC10\uB9C9 \uCD5C\uC885\\ViewModels\\Contract\\ContractProductionPlanInputViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Contract\\ContractProductionPlanInputViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:30:32.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

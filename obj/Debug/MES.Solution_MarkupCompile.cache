@@ -1,0 +1,20 @@
+﻿MES.Solution
+
+
+winexe
+C#
+.cs
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\obj\Debug\
+MES.Solution
+none
+false
+DEBUG;TRACE
+C:\Users\lebye\OneDrive\바탕 화면\지우기\11_25_\11_26_배포가능\App.xaml
+20383016216
+
+80629724739
+46-18547001
+Views\Pages\Contract\ContractAddWindow.xaml;Views\Pages\Equipment\EquipmentMaintenanceScheduleAddWindow.xaml;Views\Pages\Inventory\InventoryManagementWindow.xaml;Views\Pages\Contract\ContractProductionPlanInputWindow.xaml;Views\Pages\Contract\ContractPage.xaml;Views\Pages\Dashboard\DashboardPage.xaml;Views\MainWindow.xaml;Views\LoginWindow.xaml;Views\Pages\Equipment\EquipmentPage.xaml;Views\Pages\Inventory\InventoryPage.xaml;Views\Pages\LogPage.xaml;Views\Pages\NotificationWindow.xaml;Views\Pages\Production\ProductionPlanPage.xaml;Views\Pages\Production\ProductionStatusPage.xaml;Views\Pages\Production\WorkOrderPage.xaml;Views\Pages\Shipment\ShipmentPage.xaml;Views\Pages\Equipment\PlcDetailWindow.xaml;Views\Pages\Production\ProductionPlanAddWindow.xaml;Views\RegisterWindow.xaml;Views\Pages\Shipment\ShipmentAddWindow.xaml;
+
+False
+
